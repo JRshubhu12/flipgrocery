@@ -1,0 +1,47 @@
+.footer {
+    position: absolute;
+    height: 40%;
+    width: 80%;
+    top: 780%;
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    margin-bottom: 20px;
+  }
+  
+  .logo img {
+    width: 100px; /* Adjust size as needed */
+  }
+  
+  .footer-text p {
+    color: #007bff;
+    margin: 10px 0;
+  }
+  
+  .app-store-logos img {
+    width: 100px; /* Adjust size as needed */
+    margin: 0 10px;
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  
+  .footer-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #007bff; /* Change color as needed */
+  }

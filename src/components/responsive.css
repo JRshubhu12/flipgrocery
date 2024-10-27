@@ -1,0 +1,145 @@
+/* Base Styling */
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrolling */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .screen {
+    background-color: #7091e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .div-container {
+    background-color: #ef9d51;
+    width: 100%;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  /* Text Styling */
+  .div-container .text-wrapper,
+  .div-container .element-off-free-gift-in {
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+    margin: 0 5px;
+  }
+  
+  /* Responsive Flex Layout */
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .image {
+    height: 150px;
+    width: 250px;
+    background-image: url('./assets/logo.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .button-52 {
+    background-color: #c45d5d;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+    transition: background-image 0.5s ease;
+  }
+  
+  .button-52:hover {
+    background-image: linear-gradient(90deg, #53cbef, #dcc66c, #ffa3b6);
+    color: #000;
+  }
+  
+  /* Banner Styling */
+  .banner {
+    background-image: url('./assets/banner.svg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .label-banner, .label-banner-2, .label-banner-3 {
+    color: #214e33;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 58px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .label-banner-3 .the-best-simple {
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+  }
+  
+  /* Text Section Styling */
+  .text-group2 {
+    font-size: 45px;
+    color: #2C3650;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .text-group2:hover {
+    transform: scale(1.05);
+    background: linear-gradient(to right, #ff9898, #ffcccc);
+  }
+  
+  /* Media Queries for Responsive Design */
+  @media (max-width: 1024px) {
+    .label-banner, .label-banner-2, .label-banner-3 {
+      font-size: 45px;
+      line-height: 50px;
+    }
+  
+    .button-52 {
+      font-size: 16px;
+      padding: 10px 20px;
+    }
+  
+    .text-group2 {
+      font-size: 35px;
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .label-banner, .label-banner-2, .label-banner-3 {
+      font-size: 35px;
+    }
+  
+    .button-52 {
+      font-size: 14px;
+      padding: 8px 15px;
+    }
+  }
+  

@@ -1,0 +1,389 @@
+.screen1 {
+  background-color: #ff5656;
+  height: 500px;
+  width: 100px;
+}
+.div-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffa047;
+    border: 0px none;
+    height: 44px;
+    width: 100%; /* Make it 100% to adjust to screen size */
+    padding: 0 10px; /* Add padding for smaller screens */
+  }
+  
+  .div-container .div {
+    height: 20px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .div-container .paragraph {
+    display: flex;
+    justify-content: center; /* Center text horizontally */
+    align-items: center; /* Center text vertically */
+    position: relative;
+    width: 100%; /* Make it responsive */
+    text-align: center;
+    padding: 0px 10px;
+  }
+  
+  .div-container .text-wrapper,
+  .div-container .element-off-free-gift-in {
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 12.8px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    white-space: nowrap;
+    margin-bottom: -0.5px;
+    display: inline;
+  }
+  
+  .div-container .element-off-free-gift-in {
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    margin-left: 5px;
+  }
+  
+  .span {
+    letter-spacing: 0.03px;
+  }
+  
+  .text-wrapper-2 {
+     position: absolute;
+        top: 1%;
+    font-family: "Inter-Italic", Helvetica;
+    font-size: 12.9px;
+    font-style: italic;
+    letter-spacing: 0.03px;
+    text-decoration: underline;
+    display: inline;
+  }
+  
+  .div-container .image-image {
+    position: absolute;
+    top: 22%;
+    left: 32%;
+    background-image: url('./assets/image 1.svg');
+    background-position: 50% 50%;
+    color: black;
+    background-size: cover;
+    height: 19px;
+    width: 20px;
+    margin-left: 10px; /* Adjust margin for spacing */
+  }
+  
+  .navbar {
+    position: absolute;
+    background-color: #ffffff;
+    top: 35px;
+    left: 0;
+    height: 100%;
+    width: 100%; /* Make it responsive */
+  }
+  
+  /* Media Queries for Responsive Design */
+  
+  /* Adjust for smaller screens like tablets and mobile phones */
+  @media (max-width: 768px) {
+    .screen {
+      height: 200px;
+      padding: 20px;
+    }
+  
+    .div-container {
+      height: auto;
+      padding: 5px;
+    }
+  
+    .paragraph {
+      flex-direction: column; /* Stack elements vertically */
+    }
+  
+    .text-wrapper,
+    .element-off-free-gift-in {
+      font-size: 10px; /* Decrease text size */
+    }
+  
+    .image-image {
+      width: 18px;
+      height: 18px;
+    }
+  
+    .navbar {
+      height: 30px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .div-container {
+      padding: 2px;
+    }
+
+    .element-off-free-gift-in {
+        position: absolute;
+        top: 1%;
+      font-size: 8px; /* Further decrease text size for mobile */
+    }
+  
+    .image-image {
+      width: 15px;
+      height: 15px;
+    }
+  }
+  /* From Uiverse.io by OliverZeros */ 
+  /* From Uiverse.io by adamgiebl */ 
+  /* From Uiverse.io by gksckt */ 
+ .button-52 {
+    position: absolute;
+    top: 1%;
+    left: 82%;
+    background-color: #c45d5d;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+   }
+   
+   .button-52:hover {
+    background-image: linear-gradient(90deg, #53cbef 0%, #dcc66c 50%, #ffa3b6 75%, #53cbef 100%);
+    animation: slidernbw 5s linear infinite;
+    color: #000;
+   }
+   
+   @keyframes slidernbw {
+    to {
+     background-position: 20vw;
+    }
+   }
+  /* @media (min-width: 768px) {
+    .button-52 {
+      padding: 13px 50px 13px;
+    }
+  } */
+  /* button tags over */
+ 
+  .image {
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    height: 156px;
+    width: 259px;
+    background-image: url('./assets/logo.svg');
+  }
+
+.banner {
+  background-image: url('./assets/banner.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 900px;
+  position: absolute;
+  top: -12%;
+  right: -4%;
+  width: 1425px;
+}
+.label-banner {
+  position: absolute;
+  top: 28%;
+  left: 35%;
+  height: 72px;
+  width: 470px;
+
+}
+
+.label-banner .text-wrapper {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+  color: #214e33;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 58px;
+  font-weight: 600;
+  height: 72px;
+  left: 0;
+  letter-spacing: 1.00px;
+  line-height: 72px;
+  top: 0;
+  white-space: nowrap;
+}
+.label-banner-2 {
+    position: absolute;
+    top: 36%;
+    left: 38%;
+    height: 72px;
+    width: 470px;
+}
+
+.label-banner-2  .text-wrapper2 {
+  color: #214e33;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 58px;
+  font-weight: 600;
+  height: 72px;
+  left: 0;
+  letter-spacing: 1.00px;
+  line-height: 72px;
+  top: 0;
+  white-space: nowrap;
+}
+
+.label-banner-3 {
+    position: absolute;
+    top: 44%;
+    left: 42%;
+    height: 72px;
+    width: 470px;
+}
+
+.label-banner-3 .the-best-simple {
+  color: #214e33;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 21.8px;
+  font-weight: 400;
+  height: 32px;
+  left: 0;
+  letter-spacing: 0.30px;
+  line-height: 32px;
+  top: 0;
+  white-space: nowrap;
+}
+
+.label-banner-3 .text-wrapper3 {
+  letter-spacing: 0.07px;
+}
+
+.label-banner-3 .span3 {
+  font-family: "Inter-SemiBold", Helvetica;
+  font-size: 22.1px;
+  font-weight: 600;
+  letter-spacing: 0.07px;
+}
+.label {
+    position: absolute;
+    top: 48%;
+    left: 43%;
+    height: 72px;
+    width: 470px;
+}
+
+.label .text-wrapper {
+  color: #214e33;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 21.8px;
+  font-weight: 400;
+  height: 32px;
+  left: 0;
+  letter-spacing: 0.30px;
+  line-height: 32px;
+  top: 0;
+  white-space: nowrap;
+}
+.body{
+  position: absolute;
+  top: 105%;
+  left: 2%;
+  background-color: #bbcbf3;
+  height: 1000%;
+  width: 96%;
+}
+.label {
+  height: 120px;
+  width: 357px;
+}
+
+.in-healthy-living {
+  background-image: url('./assets/in healthy living.svg');
+  height: 44px;
+  left: 36%;
+  position: absolute;
+  top: 1%;
+  width: 351px;
+}
+
+.group1 {
+  height: 1018px;
+  left: 10%;
+  position: absolute;
+  top: 2%;
+  width: 1008px;
+}
+.pig {
+  height: 1018px;
+  left: 10%;
+  position: absolute;
+  top: 10%;
+  width: 1008px;
+}
+.text {
+  height: 1018px;
+  left: 10%;
+  position: absolute;
+  top: 13%;
+  width: 1008px;
+}
+.carousal-background{
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  background-color: #f88484;
+}
+.group2{
+  position: absolute;
+  left: 50%;
+  top: 110%;
+}
+.text-group2 {
+  position: absolute;
+  left: -1%;
+  top: 110%;
+  font-size: 45.5px;
+  font-family: 'Arial', sans-serif; /* Changed to a more modern font */
+  color: #2C3650;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Adds depth to the text */
+  background-color: transparent; /* Semi-transparent background */
+  border-radius: 10px; /* Rounded corners */
+  padding: 15px; /* Adds space around the text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
+  transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.text-group2:hover {
+  transform: scale(1.05); /* Slightly enlarges the text on hover */
+  background: linear-gradient(to right, rgb(255, 152, 152), rgb(255, 204, 204));
+}
+.budget{
+  position: absolute;
+  top: 220%;
+}
+.budget-container{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+.carousel-budget{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 50%;
+  height: 50%;
+}
+.section3{
+  position: absolute;
+  top: 360%;
+}
+@media (max-width: 768px) {
+   .banner, .budget, .carousel-budget {
+    height: auto;
+    width: 100vw;
+    padding: 2vw;
+  }};

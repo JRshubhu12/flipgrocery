@@ -1,0 +1,1548 @@
+
+import React from "react";
+import divContainer7Syxp6 from "./div-container-7syxp-6.png";
+import divStarsWhwf359 from "./div-stars-whwf3-59.svg";
+import flipGrocery1 from "./flip-grocery-1.png";
+import icon2 from "./icon-2.svg";
+import icon3 from "./icon-3.svg";
+import icon4 from "./icon-4.svg";
+import icon5 from "./icon-5.svg";
+import icon6 from "./icon-6.svg";
+import icon7 from "./icon-7.svg";
+import icon8 from "./icon-8.svg";
+import icon9 from "./icon-9.svg";
+import icon10 from "./icon-10.svg";
+import icon11 from "./icon-11.svg";
+import icon12 from "./icon-12.svg";
+import icon13 from "./icon-13.svg";
+import icon14 from "./icon-14.svg";
+import icon15 from "./icon-15.svg";
+import icon16 from "./icon-16.svg";
+import icon17 from "./icon-17.svg";
+import icon18 from "./icon-18.svg";
+import icon19 from "./icon-19.svg";
+import icon20 from "./icon-20.svg";
+import icon21 from "./icon-21.svg";
+import icon22 from "./icon-22.svg";
+import icon23 from "./icon-23.svg";
+import icon24 from "./icon-24.svg";
+import icon25 from "./icon-25.svg";
+import icon26 from "./icon-26.svg";
+import icon27 from "./icon-27.svg";
+import icon28 from "./icon-28.svg";
+import icon29 from "./icon-29.svg";
+import icon30 from "./icon-30.svg";
+import icon31 from "./icon-31.svg";
+import icon32 from "./icon-32.svg";
+import icon33 from "./icon-33.svg";
+import icon34 from "./icon-34.svg";
+import icon35 from "./icon-35.svg";
+import icon36 from "./icon-36.svg";
+import icon37 from "./icon-37.svg";
+import icon38 from "./icon-38.svg";
+import icon39 from "./icon-39.svg";
+import icon40 from "./icon-40.svg";
+import icon41 from "./icon-41.svg";
+import icon42 from "./icon-42.svg";
+import icon43 from "./icon-43.svg";
+import icon44 from "./icon-44.svg";
+import icon45 from "./icon-45.svg";
+import icon46 from "./icon-46.svg";
+import icon47 from "./icon-47.svg";
+import icon48 from "./icon-48.svg";
+import icon49 from "./icon-49.svg";
+import icon50 from "./icon-50.svg";
+import icon51 from "./icon-51.svg";
+import icon52 from "./icon-52.svg";
+import icon53 from "./icon-53.svg";
+import icon54 from "./icon-54.svg";
+import icon55 from "./icon-55.svg";
+import icon56 from "./icon-56.svg";
+import icon57 from "./icon-57.svg";
+import iconLivetype from "./icon-livetype.svg";
+import icon from "./icon.svg";
+import image2 from "./image-2.svg";
+import imageLogo182Dw27 from "./image-logo-182dw-27.svg";
+import image1 from "./image.svg";
+import "./style.css";
+
+export const Screen = () => {
+  return (
+    <div className="screen">
+      <div className="overlap-wrapper">
+        <div className="overlap">
+          <div className="body">
+            <div className="image" />
+
+            <div className="div" />
+
+            <div className="div-2">
+              <div className="overlap-group">
+                <div className="footer-footer-border">
+                  <div className="div-container-bottom">
+                    <div className="div-container-bottom-2">
+                      <p className="text-wrapper">
+                        © 2024, Hungryroot. All rights reserved
+                      </p>
+
+                      <div className="div-terms">
+                        <div className="text-wrapper-2">Terms</div>
+
+                        <div className="text-wrapper-3">Privacy</div>
+
+                        <div className="text-wrapper-4">Accessibility</div>
+
+                        <p className="p">
+                          Do not sell or share my personal information
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="div-container-top">
+                    <div className="div-section">
+                      <div className="div-primary-nav">
+                        <div className="text-wrapper-5">Gifts</div>
+
+                        <div className="text-wrapper-6">Reviews</div>
+
+                        <div className="text-wrapper-7">Recipes</div>
+
+                        <div className="text-wrapper-8">Groceries</div>
+
+                        <img
+                          className="image-logo"
+                          alt="Image logo"
+                          src={imageLogo182Dw27}
+                        />
+                      </div>
+
+                      <div className="div-app-banners">
+                        <img
+                          className="icon-livetype"
+                          alt="Icon livetype"
+                          src={iconLivetype}
+                        />
+
+                        <div className="image-app-banner" />
+                      </div>
+                    </div>
+
+                    <div className="div-secondary-nav">
+                      <div className="div-section-dw">
+                        <div className="text-wrapper-9">Info</div>
+
+                        <div className="text-wrapper-10">Philosophy</div>
+
+                        <div className="text-wrapper-11">Sustainability</div>
+
+                        <div className="text-wrapper-12">Careers</div>
+
+                        <div className="text-wrapper-13">Contact us</div>
+
+                        <div className="text-wrapper-14">FAQ</div>
+                      </div>
+
+                      <div className="div-section-2">
+                        <div className="text-wrapper-15">Community</div>
+
+                        <div className="text-wrapper-10">Blog</div>
+
+                        <div className="text-wrapper-16">Instagram</div>
+
+                        <div className="text-wrapper-12">TikTok</div>
+
+                        <div className="text-wrapper-13">Facebook</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="div-container">
+                  <div className="div-FMT-container">
+                    <div className="div-FMT-container-2">
+                      <div className="div-3">
+                        <div className="div-item">
+                          <p className="div-4">
+                            <span className="span">Sustainably</span>
+
+                            <span className="text-wrapper-17"> sourced</span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={icon} />
+                        </div>
+
+                        <div className="div-item-s">
+                          <p className="div-4">
+                            <span className="span">Best price</span>
+
+                            <span className="text-wrapper-17"> groceries</span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={image1} />
+                        </div>
+
+                        <div className="div-item-2">
+                          <p className="div-4">
+                            <span className="span">Free shipping</span>
+
+                            <span className="text-wrapper-17"> over $70</span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={icon2} />
+                        </div>
+
+                        <div className="div-item-3">
+                          <p className="div-4">
+                            <span className="span">Free gift</span>
+
+                            <span className="text-wrapper-17">
+                              {" "}
+                              every delivery
+                            </span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={icon3} />
+                        </div>
+
+                        <div className="div-item-4">
+                          <div className="text-wrapper-18">30% off</div>
+
+                          <img className="img" alt="Icon" src={icon4} />
+                        </div>
+                      </div>
+
+                      <div className="div-5">
+                        <div className="div-item-5">
+                          <p className="div-4">
+                            <span className="span">Sustainably</span>
+
+                            <span className="text-wrapper-17"> sourced</span>
+                          </p>
+
+                          <img className="icon-2" alt="Icon" src={icon5} />
+                        </div>
+
+                        <div className="div-item-6">
+                          <p className="div-4">
+                            <span className="span">Best price</span>
+
+                            <span className="text-wrapper-17"> groceries</span>
+                          </p>
+
+                          <img className="icon-3" alt="Icon" src={icon6} />
+                        </div>
+
+                        <div className="div-item-7">
+                          <p className="div-6">
+                            <span className="span">Free shipping</span>
+
+                            <span className="text-wrapper-17"> over $70</span>
+                          </p>
+
+                          <img className="icon-4" alt="Icon" src={icon7} />
+                        </div>
+
+                        <div className="div-item-8">
+                          <p className="div-4">
+                            <span className="span">Free gift</span>
+
+                            <span className="text-wrapper-17">
+                              {" "}
+                              every delivery
+                            </span>
+                          </p>
+
+                          <img className="icon-5" alt="Icon" src={icon8} />
+                        </div>
+
+                        <div className="div-item-9">
+                          <div className="text-wrapper-18">30% off</div>
+
+                          <img className="icon-6" alt="Icon" src={icon9} />
+                        </div>
+
+                        <div className="div-item-10">
+                          <p className="div-4">
+                            <span className="span">Sustainably</span>
+
+                            <span className="text-wrapper-17"> sourced</span>
+                          </p>
+
+                          <img className="icon-7" alt="Icon" src={icon10} />
+                        </div>
+
+                        <div className="div-item-11">
+                          <p className="div-4">
+                            <span className="span">Best price</span>
+
+                            <span className="text-wrapper-17"> groceries</span>
+                          </p>
+
+                          <img className="icon-8" alt="Icon" src={icon11} />
+                        </div>
+
+                        <div className="div-item-12">
+                          <p className="div-4">
+                            <span className="span">Free shipping</span>
+
+                            <span className="text-wrapper-17"> over $70</span>
+                          </p>
+
+                          <img className="icon-9" alt="Icon" src={icon12} />
+                        </div>
+
+                        <div className="div-item-13">
+                          <p className="div-6">
+                            <span className="span">Free gift</span>
+
+                            <span className="text-wrapper-17">
+                              {" "}
+                              every delivery
+                            </span>
+                          </p>
+
+                          <img className="icon-10" alt="Icon" src={icon13} />
+                        </div>
+
+                        <div className="div-item-14">
+                          <div className="text-wrapper-18">30% off</div>
+
+                          <img className="icon-11" alt="Icon" src={icon14} />
+                        </div>
+
+                        <div className="div-item-15">
+                          <p className="div-4">
+                            <span className="span">Sustainably</span>
+
+                            <span className="text-wrapper-17"> sourced</span>
+                          </p>
+
+                          <img className="icon-12" alt="Icon" src={icon15} />
+                        </div>
+
+                        <div className="div-item-16">
+                          <p className="div-4">
+                            <span className="span">Best price</span>
+
+                            <span className="text-wrapper-17"> groceries</span>
+                          </p>
+
+                          <img className="icon-8" alt="Icon" src={icon16} />
+                        </div>
+
+                        <div className="div-item-17">
+                          <p className="div-4">
+                            <span className="span">Free shipping</span>
+
+                            <span className="text-wrapper-17"> over $70</span>
+                          </p>
+
+                          <img className="icon-13" alt="Icon" src={icon17} />
+                        </div>
+
+                        <div className="div-item-18">
+                          <p className="div-4">
+                            <span className="span">Free gift</span>
+
+                            <span className="text-wrapper-17">
+                              {" "}
+                              every delivery
+                            </span>
+                          </p>
+
+                          <img className="icon-14" alt="Icon" src={icon18} />
+                        </div>
+
+                        <div className="div-item-19">
+                          <div className="text-wrapper-18">30% off</div>
+
+                          <img className="icon-15" alt="Icon" src={icon19} />
+                        </div>
+
+                        <div className="div-item">
+                          <p className="div-4">
+                            <span className="span">Sustainably</span>
+
+                            <span className="text-wrapper-17"> sourced</span>
+                          </p>
+
+                          <img className="icon-16" alt="Icon" src={icon20} />
+                        </div>
+
+                        <div className="div-item-s">
+                          <p className="div-4">
+                            <span className="span">Best price</span>
+
+                            <span className="text-wrapper-17"> groceries</span>
+                          </p>
+
+                          <img className="icon-17" alt="Icon" src={icon21} />
+                        </div>
+
+                        <div className="div-item-2">
+                          <p className="div-4">
+                            <span className="span">Free shipping</span>
+
+                            <span className="text-wrapper-17"> over $70</span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={icon22} />
+                        </div>
+
+                        <div className="div-item-20">
+                          <p className="div-4">
+                            <span className="span">Free gift</span>
+
+                            <span className="text-wrapper-17">
+                              {" "}
+                              every delivery
+                            </span>
+                          </p>
+
+                          <img className="icon" alt="Icon" src={icon23} />
+                        </div>
+
+                        <div className="div-item-4">
+                          <div className="text-wrapper-19">30% off</div>
+
+                          <img className="icon" alt="Icon" src={icon24} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="list-list">
+                <div className="paragraph-caption-xs">
+                  <p className="text-wrapper-20">
+                    1. Of customers surveyed who reported having the goal of
+                    improving digestion, cholesterol, blood
+                  </p>
+
+                  <p className="text-wrapper-21">
+                    pressure, blood sugar, immunity, inflammation, muscle tone,
+                    stress, focus, bloating, energy, skin
+                  </p>
+
+                  <p className="text-wrapper-22">and hair health, or sleep.</p>
+                </div>
+
+                <p className="text-wrapper-23">
+                  2. Of customers surveyed who reported having that goal.
+                </p>
+              </div>
+
+              <div className="section-container">
+                <div className="link-success-primary">
+                  <div className="get-started">get started</div>
+                </div>
+
+                <div className="div-subheading">
+                  <p className="text-wrapper-24">
+                    Skip a week or cancel anytime.
+                  </p>
+
+                  <p className="div-7">
+                    <span className="text-wrapper-25">
+                      Sign up today for a{" "}
+                    </span>
+
+                    <span className="text-wrapper-26">
+                      free gift in every delivery.
+                    </span>
+                  </p>
+                </div>
+
+                <div className="text-wrapper-27">Ready to dig in?</div>
+
+                <div className="image-2" />
+              </div>
+
+              <div className="section-container-2">
+                <p className="still-have-questions">
+                  <span className="text-wrapper-28">
+                    Still have questions? Learn more{" "}
+                  </span>
+
+                  <span className="text-wrapper-29">here</span>
+
+                  <span className="text-wrapper-28">.</span>
+                </p>
+
+                <div className="div-accordion">
+                  <div className="div-accordion-gxwnr">
+                    <div className="button-button">
+                      <img className="icon-18" alt="Icon" src={icon25} />
+
+                      <div className="text-wrapper-30">How does it work?</div>
+                    </div>
+                  </div>
+
+                  <div className="button-button-wrapper">
+                    <div className="button-button">
+                      <img className="icon-18" alt="Icon" src={icon26} />
+
+                      <p className="text-wrapper-30">What foods will I get?</p>
+                    </div>
+                  </div>
+
+                  <div className="button-button-ali-wrapper">
+                    <div className="button-button">
+                      <img className="icon-18" alt="Icon" src={icon27} />
+
+                      <p className="text-wrapper-30">How much does it cost?</p>
+                    </div>
+                  </div>
+
+                  <div className="div-wrapper">
+                    <div className="button-button">
+                      <img className="icon-18" alt="Icon" src={icon28} />
+
+                      <p className="text-wrapper-30">
+                        Do you have food for kids?
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="div-accordion-gxwnr-2">
+                    <div className="button-button">
+                      <img className="icon-18" alt="Icon" src={icon29} />
+
+                      <div className="text-wrapper-30">
+                        Is there any commitment?
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="button-button-ali">
+                    <img className="icon-18" alt="Icon" src={icon30} />
+
+                    <div className="text-wrapper-30">Where do you deliver?</div>
+                  </div>
+                </div>
+
+                <div className="text-wrapper-31">Your questions, answered</div>
+              </div>
+
+              <div className="section-container-3">
+                <div className="div-background">
+                  <div className="section-main">
+                    <div className="article-container">
+                      <div className="div-review-content">
+                        <div className="div-user-text">
+                          <div className="text-wrapper-32">
+                            Melissa H. from Ohio
+                          </div>
+
+                          <div className="text-wrapper-33">Enjoys sweets</div>
+                        </div>
+
+                        <div className="div-tags">
+                          <div className="div-tag">
+                            <div className="text-wrapper-34">Gluten-free</div>
+                          </div>
+
+                          <div className="div-tag-sfpj">
+                            <div className="text-wrapper-34">Soy-free</div>
+                          </div>
+                        </div>
+
+                        <div className="div-testimonial">
+                          <div className="text-wrapper-35">
+                            Quick, healthy, safe
+                          </div>
+
+                          <div className="paragraph-body">
+                            <p className="text-wrapper-36">
+                              I have a wheat allergy and gluten intolerance. I
+                            </p>
+
+                            <p className="text-wrapper-37">
+                              was going to multiple stores to get everything I
+                            </p>
+
+                            <p className="text-wrapper-38">
+                              needed and buying more than I needed, which
+                            </p>
+
+                            <p className="text-wrapper-39">
+                              led to so much waste. This is quick, healthy,
+                              safe,
+                            </p>
+
+                            <div className="text-wrapper-40">
+                              and saves me $$$.
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="div-verified">
+                          <div className="text-wrapper-41">
+                            Verified Customer
+                          </div>
+
+                          <img className="icon-19" alt="Icon" src={icon31} />
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="div-review-content-wrapper">
+                      <div className="div-review-content-2">
+                        <div className="div-verified-sfpj">
+                          <div className="text-wrapper-41">
+                            Verified Customer
+                          </div>
+
+                          <img className="icon-19" alt="Icon" src={icon32} />
+                        </div>
+
+                        <div className="div-testimonial-2">
+                          <div className="h-h-ceab">
+                            <p className="end-the-what-s-for">
+                              End the “what&#39;s for dinner?”
+                            </p>
+
+                            <div className="text-wrapper-42">stress</div>
+                          </div>
+
+                          <div className="paragraph-body-f">
+                            <p className="text-wrapper-43">
+                              We wanted to eat more veggies without them
+                            </p>
+
+                            <p className="text-wrapper-44">
+                              rotting in the fridge, eat meatless meals
+                            </p>
+
+                            <p className="text-wrapper-45">
+                              occasionally, have easy prep to discourage
+                            </p>
+
+                            <p className="text-wrapper-46">
+                              getting takeout, end the “what’s for dinner?”
+                            </p>
+
+                            <p className="text-wrapper-47">
+                              stress, and hopefully lower our cholesterol and
+                            </p>
+
+                            <p className="text-wrapper-48">
+                              lose a little weight. Two years in, we’ve
+                            </p>
+
+                            <p className="text-wrapper-49">
+                              accomplished all that and are still loving it.
+                            </p>
+                          </div>
+                        </div>
+
+                        <div className="div-tag-2">
+                          <div className="text-wrapper-34">Shellfish-free</div>
+                        </div>
+
+                        <div className="div-user-text-sfpj">
+                          <div className="text-wrapper-50">
+                            Jenifer W. from Maryland
+                          </div>
+
+                          <div className="text-wrapper-33">
+                            Loves spicy food
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="article-container-2">
+                      <div className="div-review-content-3">
+                        <div className="div-user-text-2">
+                          <div className="text-wrapper-51">
+                            Katie N. from Vermont
+                          </div>
+
+                          <div className="text-wrapper-33">
+                            Dislikes cilantro, loves chocolate
+                          </div>
+                        </div>
+
+                        <div className="div-tags-sfpj">
+                          <div className="div-tag-3">
+                            <div className="text-wrapper-34">Feeding 2</div>
+                          </div>
+
+                          <div className="div-tag-4">
+                            <div className="text-wrapper-34">Omnivore</div>
+                          </div>
+                        </div>
+
+                        <div className="div-testimonial-3">
+                          <p className="text-wrapper-52">
+                            Healthy without having to think
+                          </p>
+
+                          <div className="paragraph-body-2">
+                            <p className="text-wrapper-53">
+                              When I first started my job, I had crazy stressful
+                            </p>
+
+                            <p className="text-wrapper-38">
+                              work days, and I needed a way to make
+                            </p>
+
+                            <p className="text-wrapper-39">
+                              something healthy without having to think.
+                            </p>
+
+                            <p className="text-wrapper-40">
+                              Hungryroot made it healthy, simple, and quick!
+                            </p>
+                          </div>
+                        </div>
+
+                        <div className="div-verified">
+                          <div className="text-wrapper-41">
+                            Verified Customer
+                          </div>
+
+                          <img className="icon-19" alt="Icon" src={icon33} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="footer-footer">
+                    <p className="text-wrapper-54">
+                      4.9 in the Apple app store
+                    </p>
+
+                    <div className="div-ratings">
+                      <img
+                        className="div-stars"
+                        alt="Div stars"
+                        src={divStarsWhwf359}
+                      />
+
+                      <div className="text-wrapper-55">4.9</div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="header-header">
+                  <p className="text-wrapper-56">
+                    Based on average dollars spent per customer
+                  </p>
+
+                  <div className="hero-alt">
+                    <div className="text-wrapper-57">food delivery service</div>
+
+                    <div className="text-wrapper-58">India’s most loved</div>
+                  </div>
+
+                  <img className="icon-20" alt="Icon" src={icon34} />
+                </div>
+              </div>
+
+              <div className="section-container-4">
+                <div className="div-metrics">
+                  <div className="div-metric">
+                    <div className="paragraph-lead">
+                      <div className="text-wrapper-59">
+                        their health with Hungryroot.
+                      </div>
+
+                      <div className="sup">
+                        <div className="text-wrapper-60">1</div>
+                      </div>
+
+                      <div className="text-wrapper-61">
+                        of customers have improved
+                      </div>
+                    </div>
+
+                    <div className="text-wrapper-62">90%</div>
+
+                    <div className="div-title-pill">
+                      <div className="text-wrapper-63">Better health</div>
+
+                      <img className="icon-21" alt="Icon" src={icon35} />
+                    </div>
+                  </div>
+
+                  <div className="div-metric-dll">
+                    <div className="paragraph-lead">
+                      <div className="text-wrapper-64">
+                        energized with Hungryroot.
+                      </div>
+
+                      <div className="sup-2">
+                        <div className="text-wrapper-60">2</div>
+                      </div>
+
+                      <div className="text-wrapper-65">
+                        of customers feel more
+                      </div>
+                    </div>
+
+                    <div className="text-wrapper-66">93%</div>
+
+                    <div className="div-title-pill-dll">
+                      <div className="text-wrapper-63">More energy</div>
+
+                      <img className="icon-21" alt="Icon" src={icon36} />
+                    </div>
+                  </div>
+
+                  <div className="div-metric-2">
+                    <div className="paragraph-lead">
+                      <div className="overlap-2">
+                        <div className="overlap-group-2">
+                          <p className="div-7">
+                            of customers feel less stressed
+                          </p>
+
+                          <div className="sup-3">
+                            <div className="text-wrapper-60">2</div>
+                          </div>
+                        </div>
+
+                        <div className="text-wrapper-67">with Hungryroot.</div>
+                      </div>
+                    </div>
+
+                    <div className="text-wrapper-68">96%</div>
+
+                    <div className="div-title-pill-2">
+                      <div className="text-wrapper-63">Less stress</div>
+
+                      <img className="icon-21" alt="Icon" src={icon37} />
+                    </div>
+                  </div>
+                </div>
+
+                <div className="text-wrapper-69">
+                  Eat healthier.Live better.
+                </div>
+              </div>
+
+              <div className="section-container-5">
+                <div className="div-container-inner">
+                  <div className="div-item-yk">
+                    <div className="text-wrapper-70">Priced per serving</div>
+
+                    <div className="list">
+                      <div className="item-row">
+                        <div className="text-wrapper-71">Breakfast</div>
+
+                        <div className="text-wrapper-72">$3.99</div>
+                      </div>
+
+                      <div className="item-row-yk">
+                        <div className="text-wrapper-71">Lunch</div>
+
+                        <div className="text-wrapper-73">$5.99</div>
+                      </div>
+
+                      <div className="item-row-2">
+                        <div className="text-wrapper-71">Dinner</div>
+
+                        <div className="text-wrapper-74">$8.99</div>
+                      </div>
+
+                      <div className="item-row-3">
+                        <div className="text-wrapper-71">Snacks</div>
+
+                        <div className="text-wrapper-75">$1.99</div>
+                      </div>
+
+                      <div className="item-row-4">
+                        <div className="text-wrapper-71">Sweets</div>
+
+                        <div className="text-wrapper-76">$1.99</div>
+                      </div>
+
+                      <div className="item-row-5">
+                        <div className="text-wrapper-71">Drinks</div>
+
+                        <div className="text-wrapper-77">$3.99</div>
+                      </div>
+
+                      <div className="item-row-6">
+                        <div className="text-wrapper-78">Supplements</div>
+
+                        <div className="text-wrapper-79">$0.49</div>
+                      </div>
+                    </div>
+
+                    <div className="div-item-heading">
+                      <div className="h-h-ceab-2">
+                        <div className="span-transparent">
+                          <p className="text-wrapper-80">
+                            with prices as low as:
+                          </p>
+                        </div>
+
+                        <div className="text-wrapper-81">
+                          Buy more, save more
+                        </div>
+                      </div>
+
+                      <img className="icon-22" alt="Icon" src={icon38} />
+                    </div>
+                  </div>
+
+                  <div className="div-item-21">
+                    <div className="div-FMT-container-wrapper">
+                      <div className="overlap-group-wrapper">
+                        <div className="overlap-3">
+                          <div className="div-8">
+                            <div className="div-product">
+                              <div className="div-product-copy-wrapper">
+                                <div className="div-product-copy">
+                                  <div className="text-wrapper-82">
+                                    Garlic Hommus
+                                  </div>
+
+                                  <div className="text-wrapper-83">Cedar’s</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-yk">
+                              <div className="overlap-4">
+                                <div className="div-product-copy-2">
+                                  <div className="text-wrapper-82">
+                                    Spicy Mustard
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Sir Kensington
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-2">
+                              <div className="overlap-5">
+                                <div className="div-product-copy-3">
+                                  <div className="text-wrapper-82">
+                                    Lightly Salted
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Harvest Snaps
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-3">
+                              <div className="overlap-6">
+                                <div className="div-product-copy-4">
+                                  <div className="text-wrapper-82">
+                                    Cheddar Bunnies
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Annie&#39;s
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-4">
+                              <div className="overlap-7">
+                                <div className="div-product-copy-5">
+                                  <div className="text-wrapper-82">
+                                    Cacao Bean
+                                  </div>
+
+                                  <div className="text-wrapper-83">Koia</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-5">
+                              <div className="overlap-8">
+                                <div className="div-product-copy-6">
+                                  <div className="text-wrapper-82">
+                                    Veggie Ketchup
+                                  </div>
+
+                                  <div className="text-wrapper-83">
+                                    True Made
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-6">
+                              <div className="overlap-9">
+                                <div className="div-product-copy-7">
+                                  <div className="text-wrapper-82">
+                                    Chocolate Peanut
+                                  </div>
+
+                                  <div className="text-wrapper-83">Unreal</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-7">
+                              <div className="overlap-10">
+                                <div className="div-product-copy-8">
+                                  <div className="text-wrapper-82">
+                                    Adult Multivitamin
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Mary Ruth&#39;s
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div className="div-9">
+                            <div className="div-product">
+                              <div className="overlap-group-3">
+                                <div className="div-product-copy">
+                                  <div className="text-wrapper-82">
+                                    Garlic Hommus
+                                  </div>
+
+                                  <div className="text-wrapper-83">Cedar’s</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-yk">
+                              <div className="overlap-11">
+                                <div className="div-product-copy-2">
+                                  <div className="text-wrapper-82">
+                                    Spicy Mustard
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Sir Kensington
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-2">
+                              <div className="overlap-12">
+                                <div className="div-product-copy-3">
+                                  <div className="text-wrapper-82">
+                                    Lightly Salted
+                                  </div>
+
+                                  <div className="text-wrapper-84">
+                                    Harvest Snaps
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-3">
+                              <div className="overlap-13">
+                                <div className="div-product-copy-4">
+                                  <div className="text-wrapper-82">
+                                    Cheddar Bunnies
+                                  </div>
+
+                                  <div className="text-wrapper-83">
+                                    Annie&#39;s
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-4">
+                              <div className="overlap-14">
+                                <div className="div-product-copy-5">
+                                  <div className="text-wrapper-82">
+                                    Cacao Bean
+                                  </div>
+
+                                  <div className="text-wrapper-84">Koia</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-5">
+                              <div className="overlap-15">
+                                <div className="div-product-copy-6">
+                                  <div className="text-wrapper-82">
+                                    Veggie Ketchup
+                                  </div>
+
+                                  <div className="text-wrapper-83">
+                                    True Made
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-6">
+                              <div className="overlap-16">
+                                <div className="div-product-copy-7">
+                                  <div className="text-wrapper-82">
+                                    Chocolate Peanut
+                                  </div>
+
+                                  <div className="text-wrapper-83">Unreal</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-7">
+                              <div className="overlap-17">
+                                <div className="div-product-copy-8">
+                                  <div className="text-wrapper-82">
+                                    Adult Multivitamin
+                                  </div>
+
+                                  <div className="text-wrapper-83">
+                                    Mary Ruth&#39;s
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div className="div-10">
+                            <div className="div-product-8">
+                              <div className="overlap-group-4">
+                                <div className="div-product-copy">
+                                  <div className="text-wrapper-85">
+                                    Garlic Hommus
+                                  </div>
+
+                                  <div className="text-wrapper-86">Cedar’s</div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-9">
+                              <div className="overlap-18">
+                                <div className="div-product-copy-2">
+                                  <div className="text-wrapper-85">
+                                    Spicy Mustard
+                                  </div>
+
+                                  <div className="text-wrapper-86">
+                                    Sir Kensington
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-10">
+                              <div className="overlap-19">
+                                <div className="div-product-copy-3">
+                                  <div className="text-wrapper-85">
+                                    Lightly Salted
+                                  </div>
+
+                                  <div className="text-wrapper-87">
+                                    Harvest Snaps
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="div-product-11">
+                              <div className="overlap-20">
+                                <div className="div-product-copy-4">
+                                  <div className="text-wrapper-88">
+                                    Cheddar Bunnies
+                                  </div>
+
+                                  <div className="text-wrapper-87">
+                                    Annie&#39;s
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="div-item-heading-2">
+                      <div className="h-h-ceab-2">
+                        <div className="text-wrapper-89">
+                          best prices you’ll find.
+                        </div>
+
+                        <div className="span-transparent-2">
+                          <p className="text-wrapper-80">
+                            Brands you love at the
+                          </p>
+                        </div>
+                      </div>
+
+                      <img className="icon-22" alt="Icon" src={icon39} />
+                    </div>
+                  </div>
+                </div>
+
+                <div className="text-wrapper-90">Built for your budget</div>
+              </div>
+
+              <div className="overlap-21">
+                <div className="div-outer">
+                  <div className="section-container-6">
+                    <img className="image-3" alt="Image" src={image2} />
+
+                    <div className="div-content">
+                      <div className="h-hero-alt-ceab">
+                        <div className="here-s-how-it">Here&#39;s how it</div>
+
+                        <div className="text-wrapper-91">works:</div>
+                      </div>
+
+                      <div className="list-accordion-list">
+                        <div className="button-button-2">
+                          <img className="icon-23" alt="Icon" src={icon40} />
+
+                          <div className="text-wrapper-92">
+                            3. Enjoy healthy deliveries
+                          </div>
+                        </div>
+
+                        <div className="item-item">
+                          <div className="button-button-3">
+                            <img className="icon-23" alt="Icon" src={icon41} />
+
+                            <div className="text-wrapper-92">
+                              2. See our recommendations
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="item-item-ze">
+                          <div className="div-11">
+                            <div className="button-button-4">
+                              <img
+                                className="icon-23"
+                                alt="Icon"
+                                src={icon42}
+                              />
+
+                              <p className="text-wrapper-92">
+                                1. Tell us about yourself
+                              </p>
+                            </div>
+
+                            <div className="paragraph-lead-f">
+                              <p className="text-wrapper-93">
+                                Share your preferences, goals and must-have
+                              </p>
+
+                              <p className="eats-so-we-can">
+                                eats, so we can recommend food you&#39;ll love.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="section-container-7">
+                  <div className="div-background-kqgf">
+                    <div className="div-tabs">
+                      <div className="div-container-wq">
+                        <div className="figure-figure">
+                          <div className="figcaption">
+                            <div className="link-muted-primary">
+                              <div className="get-started-2">get started</div>
+                            </div>
+
+                            <div className="section-summary">
+                              <div className="div-12">
+                                <div className="text-wrapper-94">
+                                  1,000+ recipes
+                                </div>
+
+                                <p className="text-wrapper-95">
+                                  Easy meals ready in minutes
+                                </p>
+                              </div>
+
+                              <img
+                                className="icon-24"
+                                alt="Icon"
+                                src={icon43}
+                              />
+                            </div>
+
+                            <div className="paragraph-body-3">
+                              <p className="text-wrapper-96">
+                                Fill your cart with delicious, whole foods
+                                packed with
+                              </p>
+
+                              <p className="text-wrapper-97">
+                                inflammation-fighting benefits—think fruits,
+                                veggies, lean
+                              </p>
+
+                              <p className="text-wrapper-98">
+                                proteins, whole grains, and healthy fats.
+                              </p>
+                            </div>
+
+                            <div className="h-h-ceab-3">
+                              <div className="text-wrapper-99">
+                                Anti-Inflammatory
+                              </div>
+
+                              <img
+                                className="icon-25"
+                                alt="Icon"
+                                src={icon44}
+                              />
+                            </div>
+                          </div>
+
+                          <div className="div-image" />
+                        </div>
+                      </div>
+
+                      <div className="div-tablist">
+                        <div className="overlap-group-5">
+                          <div className="button-pill" />
+
+                          <div className="div-react-aria">
+                            <div className="button-pill-i">
+                              <div className="text-wrapper-100">+13 more</div>
+                            </div>
+
+                            <div className="button-pill-2">
+                              <div className="text-wrapper-101">Dairy-Free</div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon45}
+                              />
+                            </div>
+
+                            <div className="button-pill-3">
+                              <div className="text-wrapper-101">Less Sugar</div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon46}
+                              />
+                            </div>
+
+                            <div className="button-pill-4">
+                              <div className="text-wrapper-101">Vegetarian</div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon47}
+                              />
+                            </div>
+
+                            <div className="button-pill-5">
+                              <div className="text-wrapper-101">
+                                Gut-Friendly
+                              </div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon48}
+                              />
+                            </div>
+
+                            <div className="button-pill-6">
+                              <div className="text-wrapper-101">
+                                Gluten-Free
+                              </div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon49}
+                              />
+                            </div>
+
+                            <div className="button-pill-7">
+                              <div className="text-wrapper-101">
+                                High Protein
+                              </div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon50}
+                              />
+                            </div>
+
+                            <div className="button-pill-8">
+                              <div className="text-wrapper-101">
+                                Anti-Inflammatory
+                              </div>
+
+                              <img
+                                className="icon-26"
+                                alt="Icon"
+                                src={icon51}
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <p className="text-wrapper-102">
+                    Tailored to your tastes and needs
+                  </p>
+                </div>
+              </div>
+
+              <div className="overlap-22">
+                <div className="div-outer-sdo">
+                  <div className="overlap-23">
+                    <div className="section-container-8">
+                      <div className="div-heading">
+                        <div className="hero-alt-2">
+                          <div className="text-wrapper-103">
+                            Meet your partner
+                          </div>
+                        </div>
+
+                        <img className="icon-27" alt="Icon" src={icon52} />
+
+                        <img className="icon-28" alt="Icon" src={icon53} />
+
+                        <img className="icon-29" alt="Icon" src={icon54} />
+                      </div>
+
+                      <div className="div-content-sdo">
+                        <div className="div-item-sdo">
+                          <div className="h-h-ceab-4">
+                            <div className="overlap-group-6">
+                              <p className="text-wrapper-104">
+                                Save up to 40% each week
+                              </p>
+
+                              <div className="span-text">
+                                <div className="text-wrapper-105">
+                                  and reducing food waste.
+                                </div>
+
+                                <div className="text-wrapper-106">
+                                  by ditching takeout
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <img className="icon-30" alt="Icon" src={icon55} />
+                        </div>
+
+                        <div className="image-image-wrapper">
+                          <div className="image-image" />
+                        </div>
+
+                        <div className="div-item-22">
+                          <div className="h-h-ceab-5">
+                            <div className="span-text-2">
+                              <div className="text-wrapper-107">got you.</div>
+
+                              <p className="text-wrapper-108">
+                                More veggies? Less sodium? We’ve
+                              </p>
+                            </div>
+
+                            <p className="text-wrapper-109">
+                              Achieve your goals on your terms.
+                            </p>
+                          </div>
+
+                          <img className="icon-31" alt="Icon" src={icon56} />
+                        </div>
+
+                        <div className="image-image-sdo-wrapper">
+                          <div className="image-image-sdo" />
+                        </div>
+
+                        <div className="div-item-23">
+                          <div className="h-h-ceab-5">
+                            <div className="overlap-group-7">
+                              <div className="span-text-avocado">
+                                <div className="text-wrapper-110">cooking.</div>
+
+                                <p className="text-wrapper-104">
+                                  Save hours planning, shopping, and
+                                </p>
+                              </div>
+
+                              <div className="span-text-3">
+                                <div className="text-wrapper-105">
+                                  love + easy recipes.
+                                </div>
+
+                                <div className="text-wrapper-111">
+                                  We deliver food you’ll
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <img className="icon-31" alt="Icon" src={icon57} />
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="in-healthy-living">
+                      <br />
+                      in healthy living
+                    </div>
+                  </div>
+                </div>
+
+                <img
+                  className="div-container-syxp"
+                  alt="Div container"
+                  src={divContainer7Syxp6}
+                />
+
+                <div className="div-container-bxl">
+                  <div className="div-b">
+                    <div className="paragraph">
+                      <div className="text-wrapper-112">LIMITED TIME:</div>
+
+                      <p className="element-off-free-gift-in">
+                        <span className="text-wrapper-25">
+                          30% off + free gift in every delivery{" "}
+                        </span>
+
+                        <span className="text-wrapper-113">Learn More</span>
+                      </p>
+                    </div>
+
+                    <div className="image-image-bxl" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <img className="flip-grocery" alt="Flip grocery" src={flipGrocery1} />
+        </div>
+      </div>
+    </div>
+  );
+};
